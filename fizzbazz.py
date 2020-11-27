@@ -5,6 +5,7 @@ def main():
 
 def fizzbazz():
     i = 1
+    
     ans = []
     while i <= 20:
         if i % 3 == 0 and i % 5 == 0:
